@@ -12,7 +12,7 @@ This program will help new CIS students to display the paths the students will g
 
 ## HTML FIles
  * ### [Home Index](https://github.com/DrEnthoosiastic/CISMajorDeterminer/blob/main/Capstone/index.html)
-   * The home index to give students access to each page 
+   * The home index to give students access to each page.
  * ### [AI](https://github.com/DrEnthoosiastic/CISMajorDeterminer/blob/main/Capstone/AI.html)
    * The page for AI that displays an explanation of the major, prerequisites, and future employment opportunities.
  * ### [Cybersecurity](https://github.com/DrEnthoosiastic/CISMajorDeterminer/blob/main/Capstone/cyber.html)

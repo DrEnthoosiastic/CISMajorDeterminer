@@ -1,3 +1,4 @@
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 # CISMajorDeterminer
 <p align="center">
  <img width="400" src="https://ql6-docs-images.s3.amazonaws.com/test/img/gmercyu-logo.png$595">

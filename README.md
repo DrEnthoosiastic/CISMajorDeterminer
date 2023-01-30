@@ -10,6 +10,8 @@ This program will help new CIS students to display the paths the students will g
 ## [Supporting Images](https://github.com/DrEnthoosiastic/CISMajorDeterminer/tree/main/Capstone/Images)
 * These images display real life events to give students an inference on what will happen in each major.
 
+## [Quiz Questions](https://github.com/DrEnthoosiastic/CISMajorDeterminer/blob/main/Capstone/Quiz.docx)
+ * List of the three majors with encouraged attributes and questions to determine which major the students will enroll into.
 ## HTML FIles
  * ### [Home Index](https://github.com/DrEnthoosiastic/CISMajorDeterminer/blob/main/Capstone/index.html)
    * The home index to give students access to each page.
@@ -19,3 +21,4 @@ This program will help new CIS students to display the paths the students will g
    * The page for Cybersecurity that displays an explanation of the major, prerequisites, and future employment opportunities.
  * ### [Web Design](https://github.com/DrEnthoosiastic/CISMajorDeterminer/blob/main/Capstone/web.html)
    * The page for Web Design that displays an explanation of the major, prerequisites, and future employment opportunities.
+ 
